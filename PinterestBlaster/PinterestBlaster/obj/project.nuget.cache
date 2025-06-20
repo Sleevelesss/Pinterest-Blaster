@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BkXc5kk9FwY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\PinterestBlaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ville\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\Ville\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\Ville\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

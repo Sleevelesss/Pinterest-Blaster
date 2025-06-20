@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\views\\pingeneratorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\views\\pingeneratorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\views\\pingeneratorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\views\\pingeneratorview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\viewmodels\\pingeneratorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\viewmodels\\pingeneratorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\models\\pincontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\models\\pincontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|c:\\users\\ville\\documents\\pinterestblaster\\pinterestblaster\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE03096-EDC3-4D55-B56D-E153EBA08DE2}|PinterestBlaster\\PinterestBlaster.csproj|solutionrelative:pinterestblaster\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PinGeneratorView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Views\\PinGeneratorView.xaml.cs",
+              "RelativeDocumentMoniker": "PinterestBlaster\\Views\\PinGeneratorView.xaml.cs",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Views\\PinGeneratorView.xaml.cs",
+              "RelativeToolTip": "PinterestBlaster\\Views\\PinGeneratorView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:26:42.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PinGeneratorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\ViewModels\\PinGeneratorViewModel.cs",
+              "RelativeDocumentMoniker": "PinterestBlaster\\ViewModels\\PinGeneratorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\ViewModels\\PinGeneratorViewModel.cs",
+              "RelativeToolTip": "PinterestBlaster\\ViewModels\\PinGeneratorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:20:41.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinGeneratorView.xaml",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Views\\PinGeneratorView.xaml",
+              "RelativeDocumentMoniker": "PinterestBlaster\\Views\\PinGeneratorView.xaml",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Views\\PinGeneratorView.xaml",
+              "RelativeToolTip": "PinterestBlaster\\Views\\PinGeneratorView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T18:19:34.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PinterestBlaster\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "PinterestBlaster\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:19:37.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "PinterestBlaster\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "PinterestBlaster\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:18:55.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PinContent.cs",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Models\\PinContent.cs",
+              "RelativeDocumentMoniker": "PinterestBlaster\\Models\\PinContent.cs",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\Models\\PinContent.cs",
+              "RelativeToolTip": "PinterestBlaster\\Models\\PinContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:17:57.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PinterestBlaster\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\MainWindow.xaml",
+              "RelativeToolTip": "PinterestBlaster\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T16:13:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PinterestBlaster\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ville\\Documents\\PinterestBlaster\\PinterestBlaster\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PinterestBlaster\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:13:03.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
